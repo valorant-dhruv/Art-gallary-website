@@ -1,0 +1,102 @@
+ul{
+  text-align: center;
+}
+
+li{
+  margin-left:300px;
+  position:static;
+}
+
+.Display-3{
+  font-family: 'New Tegomin', serif;
+  position: relative;
+  left:480px;
+  margin-bottom: 30px;
+}
+
+.Display-2{
+  font-family: Arial, serif;
+  position: relative;
+  left:600px;
+  margin-bottom: 30px;
+}
+
+.Display-4{
+  font-family: Arial, serif;
+  position: relative;
+  left:600px;
+}
+
+.container-fluid{
+  position: relative;
+  background-color: #f8a488;
+}
+
+img{
+  float:right;
+  position: relative;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.row{
+  margin:20px auto;
+  text-align: center;
+}
+.know{
+  margin-bottom: 40px;
+  color:white;
+}
+
+.smit{
+  position: absolute;
+  left:150px;
+  border:3px solid black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.family{
+  position: relative;
+  right:100px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+    border:3px solid black;
+}
+
+.frnds{
+  position:relative;
+  right:100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border:3px solid black;
+}
+
+.gal{
+  color:white;
+  padding-right:900px;
+  padding-top: 20px;
+
+}
+.gallary{
+  background-color:black;
+}
+
+.contact:visited{
+  color:powderblue;
+  text-decoration: none;
+}
+
+.price:visited{
+  color:powderblue;
+  text-decoration: none;
+}
+input[type=button]{
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 16px 32px;
+text-decoration: none;
+margin: 4px 2px;
+cursor: pointer;
+}
